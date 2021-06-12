@@ -1,0 +1,29 @@
+{
+  "name": "cs",
+  "version": "1.0.0",
+  "description": "Computer Science - Case Study 06 - Mencari angka terkecil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/affandes/cs06.git"
+  },
+  "keywords": [
+    "computer",
+    "science",
+    "algoritma",
+    "javascript",
+    "js",
+    "nodejs",
+    "minimum",
+    "number"
+  ],
+  "author": "Muhammad Affandes <affandes@uin-suska.ac.id>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/affandes/cs06/issues"
+  },
+  "homepage": "https://github.com/affandes/cs06#readme"
+}
